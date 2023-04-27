@@ -3,6 +3,8 @@
 | :-----------:| :------------:|:----------:|:----------------:|
 | SchincaMauroE| 208.827-7     | Schinca    | Mauro Ezequiel   |
 
+## Compilado usando C18
+
 # 00-Hello
 ## Trabajo Práctico Nº0
 ### "Hello World!" en C
@@ -37,7 +39,7 @@ Adquirir y preparar los recursos necesarios para resolver los trabajos del curso
       4. Ejecute el programa con la salida redireccionada a un archivo
       output.txt; verifique su contenido.
 4. Publicación
-   1. Publique el trabajo enel repositorio personal SSL la carpeta 00-CHelloworld con readme.md, hello.c, y output.txt.
+   1. Publique el trabajo en el repositorio personal SSL la carpeta 00-CHelloworld con readme.md, hello.c, y output.txt.
 5. Armado de Equipo.
    Aunque el trabajo es individual, fomentamos la colaboración entre compañeros para su resolución. Consideramos que es una buena oportunidad para armar equipo para los trabajos siguientes que en su mayoría son grupales. El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
    1. Informe el número de equipo en esta lista[^1].
